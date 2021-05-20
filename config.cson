@@ -17,10 +17,22 @@
     showIndentGuide: true
   "exception-reporting":
     userId: "a78f8446-c76c-4251-8ba4-2c1243878325"
+  "ide-java":
+    server:
+      errors:
+        incompleteClasspath:
+          severity: "ignore"
   "ide-python":
     python: "python3"
   "linter-jshint":
     lintInlineJavaScript: true
-  "linter-ui-default": {}
+  "linter-ui-default":
+    panelHeight: 300
+  minimap:
+    plugins:
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      "highlight-selected": true
+      "highlight-selectedDecorationsZIndex": 0
   welcome:
     showOnStartup: false
