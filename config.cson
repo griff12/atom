@@ -1,0 +1,26 @@
+"*":
+  "atom-beautify":
+    c:
+      configPath: "/Users/home/uncrustify/forUncrustifySources.cfg"
+    executables:
+      uncrustify:
+        path: "/Users/home/uncrustify"
+    general:
+      _analyticsUserId: "c5c32fcc-eb5a-4069-af47-f8b9cdedb7aa"
+  core:
+    openEmptyEditorOnStart: false
+    projectHome: "/Users/home/desktop"
+    restorePreviousWindowsOnStart: "always"
+    telemetryConsent: "limited"
+  editor:
+    fontSize: 18
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "a78f8446-c76c-4251-8ba4-2c1243878325"
+  "ide-python":
+    python: "python3"
+  "linter-jshint":
+    lintInlineJavaScript: true
+  "linter-ui-default": {}
+  welcome:
+    showOnStartup: false
