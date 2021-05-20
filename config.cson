@@ -35,4 +35,4 @@
       "highlight-selected": true
       "highlight-selectedDecorationsZIndex": 0
   welcome:
-    showOnStartup: false
+    showOnStartup: true
